@@ -12,7 +12,7 @@
 			echo "Passwords do not match! Try again..";
 		}
 		else{
-			include("../HostelAllocationSystem/admin/confs/config.php");
+			include("../mau.hostel.edu.ng/admin/confs/config.php");
 
 			$studnum = $_POST['studno'];
 			$pass = $_POST['cpw'];
@@ -25,7 +25,7 @@
 			mysqli_query($conn, "UPDATE `student` SET `proposted` = '1' WHERE `student`.`studno` = '$studnum' ");
 			
 
-			header("location: ../HostelAllocationSystem/student/index.php");
+			header("location: ../mau.hostel.edu.ng/student/index.php");
 
 
 		}

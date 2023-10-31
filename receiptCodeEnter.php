@@ -1,5 +1,5 @@
 <?php
-  include('../HostelAllocationSystem/checkStudentCodeAction.php');
+  include('../mau.hostel.edu.ng/checkStudentCodeAction.php');
 ?>
 
 <!DOCTYPE html>
