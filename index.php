@@ -48,7 +48,6 @@
           <ul class="nav navbar-nav navbar-right">
             <li><a href="#aboutSchool">About School</a></li>
             <li><a href="#roomsType">Rooms</a></li>
-            <li><a href="#studSatisfi">Satisfication</a></li>
             <li><a href="../mau.hostel.edu.ng/pdf/help.pdf">Help</a></li>
             <li><a href="../mau.hostel.edu.ng/admin/index.php">Admin</a></li>
           </ul>
@@ -251,41 +250,7 @@
 
    </section>
 
-   <section class="students slide slideanim" id="studSatisfi">
-     <h3 class="text-center">STUDENTS SATISFACTION</h3>
-
-     <div class="container">
-       
-       <div class="row">
-         <div class="col-md-4">
-           <p>
-             <q><b>UCSM</b> မှာနေရတာ အရမ်းအဆင်ပြေပါ။ မြို့နဲ့ဝေးတာဆစ်ခုပေါ့။ အဆောင် <b>FEES</b> လည်း သက်သာတယ်။ ပင်လည်း မပင်ပန်းဘူး။ စည်းကမ်းတကျနဲ့နေရတယ်။ အကုန်လုံးအဆင်ပြေတယ်။</q>
-           </p>
-
-           <cite><img src="images/student1.jpg">Sai </cite>
-         </div>
-
-          <div class="col-md-4">
-           <p>
-             <q><b>UCSM</b>  မှာနေရတာ အရမ်းအဆင်ပြေပါ။ မြို့နဲ့ဝေးတာဆစ်ခုပေါ့။ အဆောင် <b>FEES</b> လည်း သက်သာတယ်။ ပင်လည်း မပင်ပန်းဘူး။ စည်းကမ်းတကျနဲ့နေရတယ်။ အကုန်လုံးအဆင်ပြေတယ်
-              </q>
-           </p>
-
-           <cite><img src="images/student2.jpg">Lin </cite>
-         </div>
-
-          <div class="col-md-4">
-           <p>
-             <q><b>UCSM</b>  မှာနေရတာ အရမ်းအဆင်ပြေပါ။ မြို့နဲ့ဝေးတာဆစ်ခုပေါ့။ အဆောင် <b>FEES</b> လည်း သက်သာတယ်။ ပင်လည်း မပင်ပန်းဘူး။ စည်းကမ်းတကျနဲ့နေရတယ်။ အကုန်လုံးအဆင်ပြေတယ်။</q> 
-           </p>
-
-           <cite><img src="images/student3.jpg">Nyein </cite>
-         </div>
-       </div>
-     </div>
-
-   </section>
-
+ 
    <section class="form slide slideanim" id="cmt">
      <div class="container">
         <h3 class="text-center">WE ARE WAITING FOR YOUR COMMENTS</h3>
