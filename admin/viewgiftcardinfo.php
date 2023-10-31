@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Gift Card Info</title>
+	<title>View Fee Waiver Card Info</title>
 	 
 
 	 <link rel="stylesheet" type="text/css" href="../stylecss/viewgiftcardstyle.css">
@@ -17,7 +17,7 @@
    
 </head>
 <body>
-    <h1 class="text-center">Gift Card Information Details </h1>
+    <h1 class="text-center">Fee Waiver Card  Information Details </h1>
      <div class="table-responsive">
          <table border="1" class="table table-bordered table-hover ">
           <thead>
@@ -51,7 +51,7 @@
 
            
            <tfoot>
-               <td colspan="8"><small>&copy; Copyright 2017 UCSM SecondYear Student</small></td>
+               <td colspan="8"><small>&copy; Copyright 2023 MAU Final Year Student</small></td>
            </tfoot>
 
          </table>

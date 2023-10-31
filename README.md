@@ -1,5 +1,5 @@
 # hostel-allocation-system
-This system is about the student hostel registration, allocation students to rooms, payment, attendance (roll call) via online. The manual system has some difficulties when we carry out with the paper base system. Hostel allocation system change the paper-base system to the computerized system because of incorrect data input/output, data losing and wrong data manipulation. As the number of the room is large, teacher cannot manage and record the detail information. Teacher have to take a lot of time to record each student detail, payment information by using the manual system.  Student can register and pay bill from UCSM student center.
+This system is about the student hostel registration, allocation students to rooms, payment, attendance (roll call) via online. The manual system has some difficulties when we carry out with the paper base system. Hostel allocation system change the paper-base system to the computerized system because of incorrect data input/output, data losing and wrong data manipulation. As the number of the room is large, teacher cannot manage and record the detail information. Teacher have to take a lot of time to record each student detail, payment information by using the manual system.  Student can register and pay bill from MAU student center.
 
 # Libraries/Dependencies Used
 - php

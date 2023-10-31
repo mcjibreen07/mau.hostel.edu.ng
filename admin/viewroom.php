@@ -77,7 +77,7 @@ $conn = mysqli_connect("localhost", "root", "") or die("Error connecting to data
 
            
            <tfoot>
-               <td colspan="8"><small>&copy; Copyright 2017 UCSM SecondYear Student</small></td>
+               <td colspan="8"><small>&copy; Copyright 2023 MAI Final Year Student</small></td>
            </tfoot>
 
          </table>

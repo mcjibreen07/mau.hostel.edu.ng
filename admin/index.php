@@ -28,7 +28,7 @@
 <body>
 		
 
-        <h1 class="text-center" id="welcomeText">HELLO ADMIN<br>WELCOME TO SYSTEM</h1>
+        <h1 class="text-center" id="welcomeText">ADMIN DASHBOARD <br>WELCOME TO SYSTEM</h1>
 
           <form action="" method="post">
 

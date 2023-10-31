@@ -176,7 +176,7 @@
          </div>
 
           <div class="col-md-3">
-           <img src="images/room4.jpg">
+           <img src="images/soom4.jpg">
            <h4>Female Room New Hostel</h4>
            <p><i class="fa fa-cog"></i>Room for 4 students.</p>
          </div>

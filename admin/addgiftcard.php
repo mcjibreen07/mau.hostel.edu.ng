@@ -7,7 +7,7 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Add Gift Card</title>
+	<title>Add Fee Waiver Card</title>
 	 
 
 	 <link rel="stylesheet" type="text/css" href="../stylecss/addgiftcardstyle.css">
@@ -22,7 +22,7 @@
    
 </head>
 <body>
-    <h1 class="text-center" id="welcomeText">Adding Gift Card Information</h1>
+    <h1 class="text-center" id="welcomeText">Adding Fee Waiver Card Information</h1>
         <form action="" method="post">
          <div class="container loginform" id="loginformm">            
 
@@ -36,7 +36,7 @@
               <div class="row">
               <div class="col-md-4">
               <h5 class="tfLabel">Amount</h5>
-              <input type="Number" placeholder="Amount (Kyats)" class=" form-control tf" id="tfs amount" name="amount"><br>
+              <input type="Number" placeholder="Amount (Naira)" class=" form-control tf" id="tfs amount" name="amount"><br>
                </div>
                </div>
               
